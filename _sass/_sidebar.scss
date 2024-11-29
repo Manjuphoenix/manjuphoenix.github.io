@@ -116,11 +116,11 @@
 }
 
 .author__name {
-  margin: 15px;
+  margin: 35px;
   // text-align: center;
 
   @include breakpoint($large) {
-    margin-top: 35px;
+    margin-top: 10px;
     margin-bottom: 10px;
   }
 }
