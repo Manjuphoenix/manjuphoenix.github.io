@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Manjunath D / Portfolio"
+title                    : "Manjunath D"
 title_separator          : "-"
 name                     : &name "Manjunath D"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Manjunath D"
   pronouns         : # example: "she/her"  
   bio              : "HEY I'm Manjunath wassup?"
-  location         : "Earth"
+  location         : "Bengaluru"
   employer         : "Prof Suresh Sundaram"
   uri              : # URL
   email            : "manjunathd1@iisc.ac.in" 
@@ -42,12 +42,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "manjuphoenix"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
