@@ -80,6 +80,7 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
+  margin: 35px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -103,7 +104,7 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  // padding-left: 15px;
+  padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
 
