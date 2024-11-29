@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Manjunath D's Homepage"
+title                    : "Manjunath's Homepage"
 title_separator          : "-"
 name                     : &name "Manjunath D"
 description              : &description "personal description"
