@@ -18,6 +18,12 @@ News / Updates:
  May 2024    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Submitted and withdrew one paper from Neurips 2025
 
 
+Current Projects:
+======
+<li>Continual learning using Vision Language Models (VLM's) for autonomous vehicles</li>
+<li>RGB to Thermal Domain adaptation for Autonomous Ground Vehicles</li>
+
+
 Achievements:
 ======
 <li>Google Developer Student Clubs (GDSC) lead for the College</li>
