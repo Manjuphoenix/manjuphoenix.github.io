@@ -9,6 +9,7 @@ redirect_from:
 
 
 I'm currently working as <b>Research Assistant</b> at the <b>Artifitial Intelligence and Robotics Lab (AIRL)</b> in the Department of Aerospace Engineering at the <b>Indian Institute of Science (IISc)</b>. <br>I work under the guidance of <b><a href="https://scholar.google.com/citations?user=5iAMbhMAAAAJ&hl=en&oi=ao">Prof. Suresh Sundaram</a></b> on research projects in the domain of computer vision that is applied to ground and aerial autonomous vehicles. I completed my Bachelors in Information Science and Engineering in 2022 from Atria Institute of Technology, Bengaluru.
+<br>
 
 News / Updates:
 ======
@@ -17,6 +18,7 @@ News / Updates:
 <p>Jan 2023    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Joined Artifitial Intelligence and Robotics Lab (AIRL) under <a href="https://scholar.google.com/citations?user=5iAMbhMAAAAJ&hl=en&oi=ao">Prof. Suresh Sundaram</a></p>
 <p>Aug 2022    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Graduated B.Tech with First Class from Atria Institute of Technology</p>
 <p>Jan 2022    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Joined Energy and Wetlands Research Group under <a href="https://scholar.google.com/citations?user=Woh1fa8AAAAJ&hl=en&oi=ao">Prof. T V Ramachandra</a></p>
+<br>
 
 
 Publications:
@@ -29,6 +31,7 @@ Manjunath D, Prajwal Gurunath, Sumanth Udupa, Aditya Gandhamal, Shrikar Madhu, A
 </p>
 
 </div>
+<br>
 
 
 Research Projects:
