@@ -22,9 +22,9 @@ Current Projects:
 ======
 
 <div>
-<li>Continual learning using Vision Language Models (VLM's) for autonomous vehicles</li>
+<p>Continual learning using Vision Language Models (VLM's) for autonomous vehicles</p>
 
-<li>RGB to Thermal Domain adaptation for Autonomous Ground Vehicles</li>
+<p>RGB to Thermal Domain adaptation for Autonomous Ground Vehicles</p>
 </div>
 
 
@@ -32,9 +32,9 @@ Achievements:
 ======
 
 <div>
-<li>Google Developer Student Clubs (GDSC) lead for the College</li>
+<p>Google Developer Student Clubs (GDSC) lead for the College</p>
 
-<li>Communities In Atria (CIA) Lead for the College</li>
+<p>Communities In Atria (CIA) Lead for the College</p>
 </div>
 
 
