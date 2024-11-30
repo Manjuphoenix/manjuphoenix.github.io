@@ -13,9 +13,8 @@ I'm currently working as <b>Research Assistant</b> at the <b>Artifitial Intellig
 News / Updates:
 ======
 
- Sept 2024    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Submitted one paper to ICRA 2025
-
- May 2024    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Submitted and withdrew one paper from Neurips 2025
+<p>Sept 2024    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Submitted one paper to ICRA 2025</p>
+<p>May 2024    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Submitted and withdrew one paper from Neurips 2025</p>
 
 
 Current Projects:
