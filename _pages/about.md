@@ -19,6 +19,18 @@ News / Updates:
 <p>Jan 2022    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Joined Energy and Wetlands Research Group under <a href="https://scholar.google.com/citations?user=Woh1fa8AAAAJ&hl=en&oi=ao">Prof. T V Ramachandra</a></p>
 
 
+Publications:
+======
+
+<div>
+<p><b>IndraEye: Infrared Electro-Optical UAV-based Perception Dataset for Robust Downstream Tasks</b>
+<b>Manjunath D</b>, Prajwal Gurunath, Sumanth Udupa, Aditya Gandhamal, Shrikar Madhu, Aniruddh Sikdar, Suresh Sundaram
+<em>Submitted to ICRA 2025</em>
+</p>
+
+</div>
+
+
 Research Projects:
 ======
 
