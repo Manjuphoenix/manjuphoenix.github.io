@@ -21,17 +21,21 @@ News / Updates:
 Current Projects:
 ======
 
+<div>
 <li>Continual learning using Vision Language Models (VLM's) for autonomous vehicles</li>
 
 <li>RGB to Thermal Domain adaptation for Autonomous Ground Vehicles</li>
+</div>
 
 
 Achievements:
 ======
 
+<div>
 <li>Google Developer Student Clubs (GDSC) lead for the College</li>
 
 <li>Communities In Atria (CIA) Lead for the College</li>
+</div>
 
 
 [//]: # (HEY there)
