@@ -13,12 +13,12 @@ I'm currently working as <b>Research Assistant</b> at the <b>Artifitial Intellig
 News / Updates:
 ======
 <table style="font-family: arial, sans-serif; font-size: 12px">
-<tr>
+<tr style="font-family: arial, sans-serif; font-size: 12px">
 <th>News</th>
 <th></th>
 </tr>
 
-<tr>
+<tr style="font-family: arial, sans-serif; font-size: 12px">
 <th>2024</th>
 <th>Submitted One paper to ICRA 2025</th>
 </tr>
