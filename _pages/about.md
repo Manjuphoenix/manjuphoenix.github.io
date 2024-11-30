@@ -13,10 +13,10 @@ I'm currently working as <b>Research Assistant</b> at the <b>Artifitial Intellig
 News / Updates:
 ======
 
- Column 1  Column 2
+ News   
 
- Cell 1  Cell 2 
- Cell 3  Cell 4 
+ Sept 2024      Submitted one paper to ICRA 2025
+ May 2024      Submitted and withdrew one paper from Neurips 2025
 
 HEY there
 
