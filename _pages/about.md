@@ -13,7 +13,8 @@ I'm currently working as <b>Research Assistant</b> at the <b>Artifitial Intellig
 News / Updates:
 ======
 
- Column 1  Column 2 
+ Column 1  Column 2
+
  Cell 1  Cell 2 
  Cell 3  Cell 4 
 
