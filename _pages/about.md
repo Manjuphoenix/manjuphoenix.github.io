@@ -12,7 +12,7 @@ I'm currently working as <b>Research Assistant</b> at the <b>Artifitial Intellig
 
 News / Updates:
 ======
-<table>
+<table style="font-family: arial, sans-serif; font-size: 12px">
 <tr>
 <th>News</th>
 <th></th>
