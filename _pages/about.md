@@ -12,17 +12,11 @@ I'm currently working as <b>Research Assistant</b> at the <b>Artifitial Intellig
 
 News / Updates:
 ======
-<table style="font-family: arial, sans-serif; font-size: 12px">
-<tr style="font-family: arial, sans-serif; font-size: 12px">
-<th>News</th>
-<th></th>
-</tr>
 
-<tr style="font-family: arial, sans-serif; font-size: 12px">
-<th>2024</th>
-<th>Submitted One paper to ICRA 2025</th>
-</tr>
-</table>
+| Column 1 | Column 2 |
+|:--|:--|
+| Cell 1 | Cell 2 |
+| Cell 3 | Cell 4 |
 
 HEY there
 
