@@ -15,9 +15,9 @@ News / Updates:
 
  News   
 
- Sept 2024    &nbsp;&nbsp;&nbsp;&nbsp;    Submitted one paper to ICRA 2025
+ Sept 2024    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Submitted one paper to ICRA 2025
 
- May 2024    &nbsp;&nbsp;&nbsp;&nbsp;    Submitted and withdrew one paper from Neurips 2025
+ May 2024    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Submitted and withdrew one paper from Neurips 2025
 
 
 HEY there
