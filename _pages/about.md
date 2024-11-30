@@ -23,8 +23,8 @@ Publications:
 ======
 
 <div>
-<p><b>IndraEye: Infrared Electro-Optical UAV-based Perception Dataset for Robust Downstream Tasks</b>
-<b>Manjunath D</b>, Prajwal Gurunath, Sumanth Udupa, Aditya Gandhamal, Shrikar Madhu, Aniruddh Sikdar, Suresh Sundaram
+<p>IndraEye: Infrared Electro-Optical UAV-based Perception Dataset for Robust Downstream Tasks<br>
+<b>Manjunath D</b>, Prajwal Gurunath, Sumanth Udupa, Aditya Gandhamal, Shrikar Madhu, Aniruddh Sikdar, Suresh Sundaram<br>
 <em>Submitted to ICRA 2025</em>
 </p>
 
