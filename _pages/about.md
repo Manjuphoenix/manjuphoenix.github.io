@@ -43,13 +43,18 @@ Research Projects:
 
 
 
-Achievements:
-======
+[//]: # (Achievements:)
 
-<div>
-<p>Google Developer Student Clubs (GDSC) Lead for Atria Institute of Technology</p>
-<p>Communities In Atria (CIA) Lead for the College</p>
-</div>
+[//]: # (======)
+
+[//]: # ()
+[//]: # (<div>)
+
+[//]: # (<p>Google Developer Student Clubs &#40;GDSC&#41; Lead for Atria Institute of Technology</p>)
+
+[//]: # (<p>Communities In Atria &#40;CIA&#41; Lead for the College</p>)
+
+[//]: # (</div>)
 
 
 [//]: # (HEY there)
