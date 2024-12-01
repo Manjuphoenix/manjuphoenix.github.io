@@ -27,6 +27,8 @@ Publications:
 <p><b>IndraEye: Infrared Electro-Optical UAV-based Perception Dataset for Robust Downstream Tasks</b><br>
 *Manjunath D*, Prajwal Gurunath, Sumanth Udupa, Aditya Gandhamal, Shrikar Madhu, Aniruddh Sikdar, Suresh Sundaram<br>
 <em>Submitted to ICRA 2025</em>
+<button onclick="window.location.href='https://arxiv.org/abs/2410.20953';">Paper</button>
+<button onclick="window.location.href='https://sites.google.com/view/indraeye';">Project page</button>
 </p>
 
 </div>
@@ -37,7 +39,7 @@ Research Projects:
 
 <div style="line-height: 1.5">
 <li>Continual learning using Vision Language Models (VLM's) for autonomous vehicles for Panoptic Segmentation task</li>
-<li>Multi-modal unsupervised RGB to Thermal Domain adaptation for Autonomous Ground Vehicles using self supervised methods</li>
+<li>Multi-modal unsupervised RGB to Thermal Domain adaptation for Autonomous Ground Vehicles using self supervised by leveraging the advantage of pretext tasks.</li>
 <li>Slant angle object detection to tackle the challenges of occlusion and scale variations in drone imagery</li>
 </div>
 
