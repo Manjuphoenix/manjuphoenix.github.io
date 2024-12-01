@@ -59,6 +59,7 @@ Research Projects:
 <li>Continual learning using Vision Language Models (VLM's) for autonomous vehicles for Panoptic Segmentation task</li>
 <li>Multi-modal unsupervised RGB to Thermal Domain adaptation for Autonomous Ground Vehicles using self supervised by leveraging the advantage of pretext tasks.</li>
 <li>Slant angle object detection to tackle the challenges of occlusion and scale variations in drone imagery</li>
+<li>Object detection on Synthetic Aperture Radar (SAR) dataset. </li>
 </div>
 
 
