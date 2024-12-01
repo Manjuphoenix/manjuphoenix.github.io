@@ -13,7 +13,8 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li style="position:relative; transform: translate(85vw, 0);" class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+<!--            <li style="position:relative; transform: translate(50vw, 0);" class="masthead__menu-item masthead_nav-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>-->
+            <li class="masthead__menu-item masthead_nav-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>

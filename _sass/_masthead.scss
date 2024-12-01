@@ -58,3 +58,20 @@
     font-weight: 700;
   }
 }
+
+.masthead_nav-item {
+  position: relative;
+  transform: translate(50vw, 0);
+}
+
+@media screen and (max-width: 768px) {
+  .masthead_nav-item{
+    transform: translate(30vw, 0);
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .masthead_nav-item{
+    transform: translate(10vw, 0);
+  }
+}
