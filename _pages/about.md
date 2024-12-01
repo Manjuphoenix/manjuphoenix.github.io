@@ -36,7 +36,7 @@ Publications:
             text-decoration: none;
             cursor: pointer;
             display: inline-block;
-            vertical-align: middle;" onclick="window.location.href='https://arxiv.org/abs/2410.20953';">Paper</button>
+            vertical-align: top;" onclick="window.location.href='https://arxiv.org/abs/2410.20953';">Paper</button>
 <button style="padding: 6px 6px;
             font-size: 10px;
             color: black;
@@ -46,7 +46,7 @@ Publications:
             text-decoration: none;
             cursor: pointer;
             display: inline-block;
-            vertical-align: middle;" onclick="window.location.href='https://sites.google.com/view/indraeye';">Project page</button>
+            vertical-align: top;" onclick="window.location.href='https://sites.google.com/view/indraeye';">Project page</button>
 </p>
 
 </div>
