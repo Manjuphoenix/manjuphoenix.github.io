@@ -24,7 +24,8 @@ main:
         
     
   - title: "CV"
-    url: /cv/
+#    url: /cv/
+    url: https://github.com/manjuphoenix.github.io/files/Resume.pdf
     
   # - title: "Guide"
   #   url: /markdown/
