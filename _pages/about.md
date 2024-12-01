@@ -27,24 +27,26 @@ Publications:
 <p><b>IndraEye: Infrared Electro-Optical UAV-based Perception Dataset for Robust Downstream Tasks</b><br>
 *Manjunath D*, Prajwal Gurunath, Sumanth Udupa, Aditya Gandhamal, Shrikar Madhu, Aniruddh Sikdar, Suresh Sundaram<br>
 <em>Submitted to ICRA 2025</em>
-<button style="padding: 4px 4px;
-            font-size: 8px;
+<button style="padding: 6px 6px;
+            font-size: 10px;
             color: black;
             background-color: lightgrey; /* Green button */
             border: none;
-            border-radius: 3px;
+            border-radius: 4px;
             text-decoration: none;
             cursor: pointer;
-            display: inline-block;" onclick="window.location.href='https://arxiv.org/abs/2410.20953';">Paper</button>
-<button style="padding: 4px 4px;
-            font-size: 8px;
+            display: inline-block;
+            vertical-align: middle;" onclick="window.location.href='https://arxiv.org/abs/2410.20953';">Paper</button>
+<button style="padding: 6px 6px;
+            font-size: 10px;
             color: black;
             background-color: lightgrey; /* Green button */
             border: none;
-            border-radius: 3px;
+            border-radius: 4px;
             text-decoration: none;
             cursor: pointer;
-            display: inline-block;" onclick="window.location.href='https://sites.google.com/view/indraeye';">Project page</button>
+            display: inline-block;
+            vertical-align: middle;" onclick="window.location.href='https://sites.google.com/view/indraeye';">Project page</button>
 </p>
 
 </div>
