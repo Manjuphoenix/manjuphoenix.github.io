@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Robotic perception & Autonomous driving"
   location         : "Bangalore, India"
-  employer         : "AIRL, IISc"
+  employer         : "AIRL, Dept AE, IISc"
   uri              : # URL
   email            : "manjunathd1@iisc.ac.in" 
 
@@ -36,7 +36,6 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=379B-doAAAAJ&hl=en&authuser=1"
   impactstory      : # URL
   # orcid            : "https://orcid.org/0009-0003-6044-6215"
-  linkedin-in         : "https://www.linkedin.com/in/manjunath-d/"
   researchgate     : # URL
   scopus           : # URL
 
