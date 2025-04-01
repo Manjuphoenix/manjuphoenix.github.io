@@ -20,7 +20,7 @@ News / Updates:
 
 
 
-Publications:
+<!-- Publications:
 ======
 
 <div>
@@ -49,7 +49,7 @@ Publications:
             vertical-align: top;" onclick="window.location.href='https://sites.google.com/view/indraeye';">Project page</button>
 </p>
 
-</div>
+</div> -->
 
 
 Research Projects:
