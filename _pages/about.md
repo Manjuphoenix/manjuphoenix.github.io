@@ -13,7 +13,7 @@ I'm currently working as <b>Research Assistant</b> at the <b>Artifitial Intellig
 News / Updates:
 ======
 
-<p>Sept 2024    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Two papers got accpted at CVPRW 2025</p>
+<p>Apr 2025    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Two papers got accpted at CVPRW 2025</p>
 <p>Jan 2023    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Joined Artifitial Intelligence and Robotics Lab (AIRL) under <a href="https://scholar.google.com/citations?user=5iAMbhMAAAAJ&hl=en&oi=ao">Prof. Suresh Sundaram</a></p>
 <p>Aug 2022    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Graduated B.Tech with First Class from Atria Institute of Technology</p>
 <p>Jan 2022    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Joined Energy and Wetlands Research Group under <a href="https://scholar.google.com/citations?user=Woh1fa8AAAAJ&hl=en&oi=ao">Prof. T V Ramachandra</a></p>
