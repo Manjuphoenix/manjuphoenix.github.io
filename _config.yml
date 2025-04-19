@@ -22,7 +22,8 @@ repository               : "manjuphoenix/manjuphoenix.github.io"
 author:
   # Biographic information
 #  avatar           : "profile.png"
-  avatar           : "MyPhoto.jpg"
+#  avatar           : "MyPhoto.jpg"
+  avatar           : "profile_pic1.jpeg"
   name             : "Manjunath D"
   pronouns         : # example: "she/her"  
   bio              : "Robotic perception & Autonomous driving"
