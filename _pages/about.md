@@ -91,7 +91,7 @@ Presentations and Talks:
 <li>Oral Presentation of SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems" at CVPR-W 2025, in Nashville TN, US </li>
 <li>Poster Presentation of "VISTA-CLIP: Visual Incremental Self-Tuned Adaptation for Efficient Continual Panoptic Segmentation" at CVPR-W 2025, in Nashville TN, US </li>
 </div>
-
+<br>
 
 
 <div style="font-size: 1em">
