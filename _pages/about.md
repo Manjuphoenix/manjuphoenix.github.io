@@ -71,37 +71,46 @@ Research Projects:
 ======
 
 <div style="font-size: 1em">
+<p>
 <li>Continual learning using Vision Language Models (VLM) and visual prompting techniques with knowledge distillation for autonomous vehicles for Panoptic Segmentation task</li>
 <li>Multi-modal unsupervised RGB to Thermal Domain adaptation (Un co-registered images) for Autonomous Ground Vehicles using self supervised by leveraging the advantage of pretext tasks.</li>
 <li>Slant angle object detection to tackle the challenges of occlusion, scale variations and domain shifts due to weather, geography, sensor, etc in drone imagery</li>
 <li>Improving accuracy for object detection on Synthetic Aperture Radar (SAR) dataset.</li>
+</p>
 </div>
+
 
 
 Talks, Oral and Poster Presentations:
 ======
 
-<div style="font-size: 2em">
+<div style="font-size: 1em">
 Paper Presentation:
 </div>
 <div style="font-size: 1em">
 <li>Oral Presentation of SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems" at CVPR-W 2025, in Nashville TN, US </li>
 <li>Poster Presentation of "VISTA-CLIP: Visual Incremental Self-Tuned Adaptation for Efficient Continual Panoptic Segmentation" at CVPR-W 2025, in Nashville TN, US </li>
 </div>
-<div style="font-size: 2em">
+<div style="font-size: 1em">
 Talks:
+</div>
+<div style="font-size: 1em">
+<p>
 <li>Delivered a talk on Target Recognition in aerial imagery, Faculty Development Program for "Drone Perception", PES University, Electronic City Campus, Bangalore, Karnataka, India</li>
 <li>Delivered a talk on Deep leraning for autonomous navigation, Industrial workshop for Ashok Leyland on "Autonomous Navigation", Department of Aerospace Engineering (AE), IISc, Bangalore, Karnataka, India</li>
 <li>Delivered a talk on Deep Learning for Drone Applications, Faculty Development Program for "Drone Applications", Department of AE, IISc,. Bangalore, Karnataka, India</li>
 <li>Delivered a talk on AI perception for Aerial Robotics, Faculty Development Program for "Unmanned Aerial Vehicles Technology and its Application", Department of AE, IISc,. Bangalore, Karnataka, India</li>
+</p>
 </div>
 
 
 Achievements:
 ======
 
-<p>Google Developer Student Clubs (GDSC) Lead for Atria Institute of Technology</p>
-<p>Communities In Atria (CIA) Lead for the College</p>
+<div style="font-size: 1em">
+<li>Google Developer Student Clubs (GDSC) Lead for Atria Institute of Technology</li>
+<li>Communities In Atria (CIA) Lead for the College</li>
+</div>
 
 
 
