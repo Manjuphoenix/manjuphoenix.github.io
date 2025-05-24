@@ -98,12 +98,10 @@ Presentations and Talks:
 <b>Talks:</b>
 </div>
 <div style="font-size: 1em">
-<p>
 <li>Delivered a talk on Target Recognition in aerial imagery, Faculty Development Program for "Drone Perception", PES University, Electronic City Campus, Bangalore, Karnataka, India</li>
 <li>Delivered a talk on Deep leraning for autonomous navigation, Industrial workshop for Ashok Leyland on "Autonomous Navigation", Department of Aerospace Engineering (AE), IISc, Bangalore, Karnataka, India</li>
 <li>Delivered a talk on Deep Learning for Drone Applications, Faculty Development Program for "Drone Applications", Department of AE, IISc,. Bangalore, Karnataka, India</li>
 <li>Delivered a talk on AI perception for Aerial Robotics, Faculty Development Program for "Unmanned Aerial Vehicles Technology and its Application", Department of AE, IISc,. Bangalore, Karnataka, India</li>
-</p>
 </div>
 
 
@@ -112,7 +110,6 @@ Achievements:
 
 <div style="font-size: 1em">
 <li>Google Developer Student Clubs (GDSC) Lead for Atria Institute of Technology</li>
-<li>Communities In Atria (CIA) Lead for the College</li>
 </div>
 
 
