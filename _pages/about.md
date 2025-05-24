@@ -13,7 +13,7 @@ I'm currently working as <b>Research Assistant</b> at the <b>Artifitial Intellig
 News / Updates:
 ======
 
-<p>Apr 2025    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Two papers got accpted at CVPRW 2025</p>
+<p>Apr 2025    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Two papers accpted at CVPR-W 2025 (PBVS & DG-EBF)</p>
 <p>Jan 2023    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Joined Artifitial Intelligence and Robotics Lab (AIRL) under <a href="https://scholar.google.com/citations?user=5iAMbhMAAAAJ&hl=en&oi=ao">Prof. Suresh Sundaram</a></p>
 <p>Aug 2022    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Graduated B.Tech with First Class with Honors from Atria Institute of Technology</p>
 <p>Jan 2022    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Joined Energy and Wetlands Research Group under <a href="https://scholar.google.com/citations?user=Woh1fa8AAAAJ&hl=en&oi=ao">Prof. T V Ramachandra</a></p>
@@ -26,7 +26,7 @@ Publications:
 <div>
 <p><b>SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems</b><br>
 *Manjunath D*, Aniruddh Sikdar, Prajwal Gurunath, Sumanth Udupa, Suresh Sundaram<br>
-<em>Accpted at CVPR-W (PBVS)</em>
+<em>Accpted at CVPR-W (PBVS) (Oral presentation)</em>
 <button style="padding: 6px 6px;
             font-size: 10px;
             color: black;
@@ -36,7 +36,7 @@ Publications:
             text-decoration: none;
             cursor: pointer;
             display: inline-block;
-            vertical-align: top;" onclick="window.location.href='https://arxiv.org/abs/2410.20953';">Paper</button>
+            vertical-align: top;" onclick="window.location.href='https://arxiv.org/abs/2504.15728';">Paper</button>
 <button style="padding: 6px 6px;
             font-size: 10px;
             color: black;
@@ -76,6 +76,32 @@ Research Projects:
 <li>Slant angle object detection to tackle the challenges of occlusion, scale variations and domain shifts due to weather, geography, sensor, etc in drone imagery</li>
 <li>Improving accuracy for object detection on Synthetic Aperture Radar (SAR) dataset.</li>
 </div>
+
+
+Talks, Oral and Poster Presentations:
+======
+
+<div style="font-size: 2em">
+Paper Presentation:
+</div>
+<div style="font-size: 1em">
+<li>Oral Presentation of SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems" at CVPR-W 2025, in Nashville TN, US </li>
+<li>Poster Presentation of "VISTA-CLIP: Visual Incremental Self-Tuned Adaptation for Efficient Continual Panoptic Segmentation" at CVPR-W 2025, in Nashville TN, US </li>
+</div>
+<div style="font-size: 2em">
+Talks:
+<li>Delivered a talk on Target Recognition in aerial imagery, Faculty Development Program for "Drone Perception", PES University, Electronic City Campus, Bangalore, Karnataka, India</li>
+<li>Delivered a talk on Deep leraning for autonomous navigation, Industrial workshop for Ashok Leyland on "Autonomous Navigation", Department of Aerospace Engineering (AE), IISc, Bangalore, Karnataka, India</li>
+<li>Delivered a talk on Deep Learning for Drone Applications, Faculty Development Program for "Drone Applications", Department of AE, IISc,. Bangalore, Karnataka, India</li>
+<li>Delivered a talk on AI perception for Aerial Robotics, Faculty Development Program for "Unmanned Aerial Vehicles Technology and its Application", Department of AE, IISc,. Bangalore, Karnataka, India</li>
+</div>
+
+
+Achievements:
+======
+
+<p>Google Developer Student Clubs (GDSC) Lead for Atria Institute of Technology</p>
+<p>Communities In Atria (CIA) Lead for the College</p>
 
 
 
@@ -135,3 +161,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+
