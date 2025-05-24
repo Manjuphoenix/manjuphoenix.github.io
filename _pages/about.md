@@ -106,12 +106,6 @@ Presentations and Talks:
 
 
 
-Achievements:
-======
-
-<div style="font-size: 1em">
-<li>Google Developer Student Clubs (GDSC) Lead for Atria Institute of Technology</li>
-</div>
 
 
 
