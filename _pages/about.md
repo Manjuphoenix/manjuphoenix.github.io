@@ -84,7 +84,7 @@ Research Projects:
 Presentations and Talks:
 ======
 
-<div style="font-size: 1em">
+<div style="font-size: 1.5em">
 <b>Paper Presentation:</b>
 </div>
 <div style="font-size: 1em">
@@ -92,7 +92,7 @@ Presentations and Talks:
 <li>Poster Presentation of "VISTA-CLIP: Visual Incremental Self-Tuned Adaptation for Efficient Continual Panoptic Segmentation" at CVPR-W 2025, in Nashville TN, US </li>
 </div>
 
-<div style="font-size: 1em">
+<div style="font-size: 1.5em">
 <b>Talks:</b>
 </div>
 <div style="font-size: 1em">
@@ -101,6 +101,7 @@ Presentations and Talks:
 <li>Delivered a talk on Deep Learning for Drone Applications, Faculty Development Program for "Drone Applications", Department of AE, IISc,. Bangalore, Karnataka, India</li>
 <li>Delivered a talk on AI perception for Aerial Robotics, Faculty Development Program for "Unmanned Aerial Vehicles Technology and its Application", Department of AE, IISc,. Bangalore, Karnataka, India</li>
 </div>
+
 
 
 
