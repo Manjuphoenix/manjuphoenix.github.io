@@ -36,7 +36,7 @@ Publications:
             text-decoration: none;
             cursor: pointer;
             display: inline-block;
-            vertical-align: top;" onclick="window.location.href='https://arxiv.org/abs/2504.15728';">Paper</button>
+            vertical-align: top;" onclick="window.location.href='https://openaccess.thecvf.com/content/CVPR2025W/PBVS/html/D_SAGA_Semantic-Aware_Gray_color_Augmentation_for_Visible-to-Thermal_Domain_Adaptation_across_CVPRW_2025_paper.html';">Paper</button>
 <button style="padding: 6px 6px;
             font-size: 10px;
             color: black;
@@ -61,7 +61,7 @@ Publications:
             text-decoration: none;
             cursor: pointer;
             display: inline-block;
-            vertical-align: top;" onclick="window.location.href='https://arxiv.org/abs/2410.20953';">Paper</button>
+            vertical-align: top;" onclick="window.location.href='https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/html/D_VISTA-CLIP_Visual_Incremental_Self-Tuned_Adaptation_for_Efficient_Continual_Panoptic_Segmentation_CVPRW_2025_paper.html';">Paper</button>
 </p>
 
 </div>
